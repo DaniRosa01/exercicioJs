@@ -8,3 +8,9 @@ console.log("Ola Neps Academy!");
 let A = 4
 let B = 8
 console.log(A+B);
+
+//Faça um programa para ler dois valores inteiros AA e BB e imprima a média inteira dos valores AA e BB.
+//link: https://neps.academy/br/exercise/136
+let exe3A = 6
+let exe3B = 10
+console.log((exe3A + exe3B)/2);
